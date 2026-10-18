@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 aiohappyeyeballs==2.6.2
 aiohttp==3.13.5
 aiosignal==1.4.0
@@ -161,4 +160,3 @@ streamlit==1.22.0
 numpy==1.25.0
 scikit-learn==1.3.0
 xgboost==2.0.3
->>>>>>> 6391a1b90c2e0622da4fbb19750b2eee41ea37da
